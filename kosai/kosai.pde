@@ -6,7 +6,7 @@ void setup()
 {
   size(800, 550, P2D);
   background(0);
-  frameRate(12);
+  frameRate(24);
 
   reset();
 }
