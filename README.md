@@ -4,7 +4,7 @@ Generative art using [Processing 2](https://processing.org/).
 View online [here](https://sleepokay.github.io/kosai/).
 
 
-##Sample output
+## Sample output
 
 ![](https://github.com/sleepokay/kosai/blob/master/media/1.png)
 ![](https://github.com/sleepokay/kosai/blob/master/media/2.png)
