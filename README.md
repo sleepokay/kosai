@@ -5,30 +5,13 @@ View online [here](https://sleepokay.github.io/kosai/).
 
 
 ##Sample output
-[1]: https://github.com/sleepokay/kosai/blob/master/media/1.png
-[2]: https://github.com/sleepokay/kosai/blob/master/media/2.png
-[3]: https://github.com/sleepokay/kosai/blob/master/media/3.png
-[4]: https://github.com/sleepokay/kosai/blob/master/media/4.png
-[5]: https://github.com/sleepokay/kosai/blob/master/media/5.png
-[6]: https://github.com/sleepokay/kosai/blob/master/media/6.png
-[7]: https://github.com/sleepokay/kosai/blob/master/media/7.png
-[8]: https://github.com/sleepokay/kosai/blob/master/media/8.png
-[9]: https://github.com/sleepokay/kosai/blob/master/media/9.png
 
-![][1]
-
-![][2]
-
-![][3]
-
-![][4]
-
-![][5]
-
-![][6]
-
-![][7]
-
-![][8]
-
-![][9]
+![][https://github.com/sleepokay/kosai/blob/master/media/1.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/2.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/3.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/4.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/5.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/6.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/7.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/8.png]
+![][https://github.com/sleepokay/kosai/blob/master/media/9.png]
