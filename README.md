@@ -1,6 +1,9 @@
 # Kosai
 Generative art using [Processing 2](https://processing.org/).
 
+I wanted to explore achieving an interwoven pixel effect reminiscent of textiles.
+
+
 View online [here](https://sleepokay.github.io/kosai/).
 
 
